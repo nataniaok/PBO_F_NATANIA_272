@@ -9,7 +9,7 @@ public class LoginSystem {
     private Mahasiswa mahasiswa;
 
     public LoginSystem() {
-        admin = new Admin("Nata", "272", "admin", "rusaimut");
+        admin = new Admin("Nata", "272", "admin272", "rusaimut");
         mahasiswa = new Mahasiswa("Nata", "272");
     }
 
